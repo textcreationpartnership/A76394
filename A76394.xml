@@ -1,0 +1,508 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Marleborovves miseries, or England turned Ireland, by the [brace] Lord Digby and Daniel Oneale. Reade and iudge, this being a most exact and a true relation of the besieging plundering pillaging and burning part of the said towne. / Written by T.B. W.B. O.B. J.H. who were not only spectators, but also sufferers in that most unchristian action. Dedicated to all England, and directed to the city of London, to shew the abuse of the subjects, liberty, and priviledges of their owne goods.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76394</idno>
+            <idno type="STC">Wing B188</idno>
+            <idno type="STC">Thomason E245_8</idno>
+            <idno type="STC">ESTC R212564</idno>
+            <idno type="EEBO-CITATION">99871168</idno>
+            <idno type="PROQUEST">99871168</idno>
+            <idno type="VID">123569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E245[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Marleborovves miseries, or England turned Ireland, by the [brace] Lord Digby and Daniel Oneale. Reade and iudge, this being a most exact and a true relation of the besieging plundering pillaging and burning part of the said towne. / Written by T.B. W.B. O.B. J.H. who were not only spectators, but also sufferers in that most unchristian action. Dedicated to all England, and directed to the city of London, to shew the abuse of the subjects, liberty, and priviledges of their owne goods.</title>
+                  <author>T. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by one that prints the truth,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan 13. 1642.".</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123569:1" rendition="simple:additions"/>
+            <p>MARLEBOROVVES MISERIES, OR, ENGLAND turned IRELAND, BY The Lord <hi>Digbey,</hi> and <hi>Daniel Oneale.</hi>
+            </p>
+            <p>READE and IVDGE, This Being A Moſt Exact and a true Relation OF THE</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Beſieging</cell>
+                     <cell>Pillaging, and</cell>
+                  </row>
+                  <row>
+                     <cell>Plundering</cell>
+                     <cell>Burning part of the ſaid Towne.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Written by <hi>T.B. W.B. O.B. J.H.</hi> who were not onely Spectators, but alſo Sufferers in that moſt unchriſtian action.</p>
+            <p>Dedicated to all ENGLAND, and directed to the City of <hi>LONDON,</hi> to ſhew the abuſe of the Subjects, Liberty, and Priviledges of their owne goods.</p>
+            <q>
+               <hi>Felix quem faciunt aliena pericula cautum.</hi>
+            </q>
+            <p>Printed by one that Prints the Truth. 164<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:123569:2"/>
+            <head>A True and Exact Relation of all the paſſages at <hi>Marleborough</hi> from the firſt to the laſt.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Friday, November 25. The <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord <hi>Digby</hi> came againſt the Town<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with his Regiment of Horſe about 400. in number: And having come to the Townes end, ſent a meſſage by one Maſter <hi>Vincent Goddard,</hi> to demand admiſſion into the Towne, but this being denyed, he went away, to declare the Townes an<g ref="char:EOLhyphen"/>ſwer; preſently ſome of our Souldiers went forth, and let fly at them, &amp; hereupon immediately they all fled with the loſſe of ſome men: So the Towne fearing a ſecond aſſanlt, they fell to fortifie the Towne in the beſt manner they could; And for their bet<g ref="char:EOLhyphen"/>ter aſſiſtance, they ſent to the Earle of Eſſex, for ſome Commanders (having none of our owne that ſtood to us) who ſent <hi>Two Scotch men unto us, (a Sergeant Major, and a Captaine)</hi> who uſed great diligence in the directing and giving order for the Fortifications. Then upon the third of December being Saterday, the Cavaleeres came againe to the Towne, and hovered with their Horſe about the hils neer the Towne, but kept themſelves out of the breath of the Towne Muſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s; by this Occaſion, Maſter <hi>John Franklin,</hi> the Parliament man, and the <hi>Scotch</hi> Comman<g ref="char:EOLhyphen"/>ders, thought it convenient to keepe the men in that came to our Market (it being our mar<g ref="char:EOLhyphen"/>ket day) and their Horſes for the Towns defence.</p>
+            <p>Then Sunday the fourth of December, the Lord <hi>Grandiſon</hi> with his Regiment of Horſe, and Collonell <hi>Gray,</hi> with his Regiment of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ragon<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers; came againe to the Towne, and ſhewed themſelves in ſight of the Towne, and marched round the Eaſt and South part of the Towne, and ſtayed on the hill a little time, while ſome of our Muſquetteers fall<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed forth, and got as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eer them as they could, and ſhot at them, whereupon they preſently, fled, and ſo we ſaw them <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more for that day; and then they retreated to a place called <hi>Ogbourne,</hi> ſome mile and a halfe from the Towne, where they ſtayed that night, onely ſome few came in the midſt of the night, and ſhot two Muſquets againſt the place where our watch ſtood, and diſturbed our Sentinels, which cauſed them to let flye at them at a venture, and killed thoſe two men that ſhot, as was confeſt by ſome of their owne party the next day; A Gaundet, a cap, and bloody handker<g ref="char:EOLhyphen"/>chiefe was taken up the next day by ſome of our men: but this buſineſſe made a great Alarme in the Towne at that ſeaſon of the night.</p>
+            <p>Then upon Munday morning, being the fifth of December, they appeared on the Northſide of the Towne, (namely <hi>Grandiſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> and Collonell <hi>Grey)</hi> with their Troopes, but as yet they aſſaulted us not, for they waited for their foot Regiments, and the reſt of the Dragoneers to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to them, and their Ordinance, which were not as yet come, but yet this kept us in con<g ref="char:EOLhyphen"/>tinuall Alarmes for theſe two dayes and nights; but betweene eleven and twelve a clocke their Foote came, at which time they drew nearer to the Towne, and began to aſſault us, they let <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ye one volley of ſhot at us, of their ſmall ſhot; but (our Towne ſtanding in a Valley, between two hils) it never came near us, all this while we kept our ſelves within <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> workes, expect<g ref="char:EOLhyphen"/>ing to ſee their body to come in the ſight of us, and their Horſe to draw yet nearer, but they came not on: But at length Collonell <hi>Blake</hi> with his Regiment of Foote, creeping behind the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dges, and in ſome ditches thereabout, after they had (as conveniently as they could come to doe it) planted their great Guns againſt us, having now approached within Muſquet ſhot, diſcharged at us, and we againe anſwered them with a brave peale of our Muſquets. Then my Lo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>Rivers</hi> his Regiment of Foot, and Collonell <hi>Grey</hi> his Dragoneers, with one Culvering, and
+<pb n="3" facs="tcp:123569:2"/> one Demi-Canon, gave us another ſudden aſſault in two other places at once, to which our Muſqueteers gave them ſuch a brave anſwer, that they did great Execution among them. So that we could ſee many of their men tople downe like trees new cut off; So that there they made them retreate againe almoſt out of our ſights for the time. This aſſault was made on the North-Eaſt part of the Towne. And at the ſame time Sir <hi>William Peniman,</hi> and Sir <hi>James</hi> his Brother, with their Regiment of Foot, and Collonell <hi>
+                  <g ref="char:V">Ʋ</g>ſhers</hi> Dragoneers gave an aſſault on the North-Weſt ſide of the Towne; but theſe ſo hid themſelves behind hedges, and lying flat in the dit<g ref="char:EOLhyphen"/>ches, that we heard little from their Muſquets, but onely their great Guns plaid apace from this place, but did no harme at all to the Towne, either to the houſes, or to any man, woman, or childe in the Towne, for many ſhots went over the Towne, and thoſe that went low enough to hit, went through ſome houſes without any other hurt, by Gods mercy, and yet at this place alſo we did execution among them, as we could well perceive: though there were but 24. men to main<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>taine this fight againſt this whole Regiment. In this manner we maintained the fight againſt them for the ſpace of three houres without any Intermiſſion, and alſo, which is moſt re<g ref="char:EOLhyphen"/>markeable of all (by the providence of God) without the loſſe of one man amongſt us: At length our enemies, ſeeing they prevailed not, ſhot Granadoes at an old thatched Barne, that ſtood on the outſide of the Towne next them, and fired it: So that a few of our Muſquets that were ſet thereabout to maintaine that part of the Towne (ſeeing the fire) quitted the place and went away.</p>
+            <p>By and by the enemy fired another place with a Granadoe alſo, as is ſuppoſed, and this was a dwelling houſe behind our men, where our chiefeſt ſtrength was placed. So that the enemy ſeeing the fire, gave a great ſhout in token of their joy: And preſently came on ſome of them ve<g ref="char:EOLhyphen"/>ry deſperately: and brake in at that place which was firſt forſaken by our Souldiers, which place leads into the very middeſt of the Towne through one of our great Innes: thus theſe having got<g ref="char:EOLhyphen"/>ten footing in the Towne and more following them, they cryed out, A Towne, a Towne for King <hi>Charles,</hi> &amp;c. Thus they ran through the ſtreet with their drawne Swords, cutting and ſlaſhing thoſe men they met with, whether Souldiers or not, and ſo made on towards our o<g ref="char:EOLhyphen"/>ther Souldiers, who were y<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fending in the workes, they came upon them at their backes, and theſe now ſeeing the fire increaſe more and more, and the enemy come deſperately upon them before and behind, they began to take themſelves to flight, and every man to ſhift for themſelves, (for all our Pikemen and Halbert men, had given over and gone to hide themſelves a great while before) ſome throwing their Armes downe in the ſtreets, ſome into the River, and ſome into houſes, deſiring to get out of the Towne, they were taken Priſoners in all parts, which way ſoever they went: for the Lord <hi>Digby</hi> with his Regiment of Horſe, and Sir <hi>Daniel Oneale</hi> had beſet the Towne with Horſemen, from the Eaſt to the Weſt, on the South ſide. And the Lord <hi>Grandiſon,</hi> and the Lord <hi>Wentworth</hi> with their troopes had beſet it from Weſt to Eaſt, on the North ſide: and their Scouts ſo kept the Weſt and Eaſt paſſages, that thoſe that eſcaped got away with a great deale of hazard and difficulty, and yet a great many men got cleare away and never came into their hands, and many that they had in their hands alſo eſcaped away from them.</p>
+            <p>But thus they having gotten the towne at their cruell mercy: Lamentable is it to relate their Carriage and behaviour in it, for at their entring, when no defence was left us, when they had no oppoſition or reſiſtance againſt them, either by word or action, they ſet fire in two other places of the towne, with their hands, of ſet purpoſe and malice; though there had beene too much fire already kindled by them: and then at the ſame time, raging and conſuming houſe after houſe, without any ſtop or hinderance, or any man to helpe to quench the flames, but if any men apppeared to ſuch end, they tooke them priſoners; thus wee had foure great fires at one time flaming, in foure ſeverall places, a fearefull and a very ſad ſpectacle to behold: and at the ſame time, their Souldiers breaking up of Shops, and houſes, and taking away all ſorts of goods,
+<pb n="4" facs="tcp:123569:3"/> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and carried away all kindes of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ſhooes, and bootes; Stockings, <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, and woollen and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ts, Sheets, Beds, and bolſter caſſes, cutting up the caſſes, and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtreets to be trampled on by ho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es and men, alſo ſearching m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> money, and threatning them with Piſtolls and Swords, to ſhoote, or run them through, if that they would not give them money; by which meanes compelling many men to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them to the very places where they had hid their money in the ground, or in other ſuch pl<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, <gap reason="illegible" resp="#APEX" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> at men or women, calling them Round-head Rogues, and Round-head Who<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take up Armes againſt your King: you fight againſt the King, you Rogues you <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hanged, every man, and to be kill'd, both man, woman, and child, and your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne to be burnt to aſhes; but that you have a mercifull King, &amp;c. Whereas God onely knowes, we tooke up a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes and fought onely for the King, and to preſerve his Honour, his dignity, and his Lawes, againſt the violation thereof by ſuch Theeves, Rebells, and Traytors, as they are, and alſo to defend our houſes from burning and breaking up, and our goods from robbing and ſtealing; and the Liberty of our perſons from violent oppreſſion, and unjuſt and cruell Reſtr<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, and our wives and children from being turned to beg their bread; If this be to take up Armes or <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fight againſt our King; we muſt then confeſſe we never knew what obedience Subjects owe, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are to performe to their Prince, nor what kind of Protection a Prince ought to give to his Sub<g ref="char:EOLhyphen"/>jects, if he protect them not in the property of their goods and houſes, and in the liberty of their persons from ruine and ſpoyle by cruell foes: but indeed we have heard that this ſame pre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence the Rebels in <hi>Ireland</hi> had all this laſt yeare, that they were for the King, and by the Kings Authority they did all that they did in <hi>Ireland,</hi> and ſo conſequently all the Kings good Subjects that either reſiſted them in their curſed rebellion; or defended themſelves in their owne Right, they muſt take up Armes againſt the King and fight againſt him; But was not this pre<g ref="char:EOLhyphen"/>tence a fearefull indignity and ſlander to his Majeſty, and of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> declared by himſelfe; So <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeds muſt this pretence of theſe <hi>Engliſh</hi> Rebels, (the Cavaleeres <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ane) be an intolerable in<g ref="char:EOLhyphen"/>dignity and moſt inſolent calumny and ſlander unto the Kings Majeſty, however they would be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccounted and called the Kings Army, and the Kings Friends, &amp;c. and likewiſe the Kings Gen<g ref="char:EOLhyphen"/>tlemen, but they are theeves.</p>
+            <p>Yet I dare affirme that we (whom they accuſe for fighting againſt the King) will be ready and willing at all times and occaſions that ſhall be offered, to adventure our ſelves and all we have; for the honour and dignity of the King, where millions of ſuch as theſe durſt not ſhew their faces, nor yet appeare in the ſight of any danger: And we will make this option, that this preſent <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> and difference were to be determined by us and them, one hundred of us, to three hun<g ref="char:EOLhyphen"/>dred of them, we dare to meet them in open field; but we have digreſſed beſides our purpoſe, being to make a particular relation of the cruelty and carriage of theſe men, in the plundering of our Towne; This may not be forgotten, that one of their company, who ſeemed to be one that had ſome command among them, came into the houſe of an Gentleman of our Towne, Maſter <hi>W. B.</hi> by name, he uttered theſe horrible ſpeeches, in a moſt inſolent and inſul<g ref="char:EOLhyphen"/>ting manner.</p>
+            <lg>
+               <l>God dam me, ram me, ſinke me, nine mile into hell,</l>
+               <l>If ever in <hi>Marleborough</hi> doe any Round-head dwell.</l>
+            </lg>
+            <p>The Lord <hi>Digby</hi> alſo, or the Lord <hi>Grandiſon,</hi> we know not well whether, at another time comming into the ſame mans houſe (being a wealthy man, but <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who had many children) and tels the man of the houſe, that he did and would fine him to pay 500 pound, which ſhould be made ready and paid within foure dayes; The good Gentleman makes him anſwer that he could not pay one hundred pound, for his houſe had beene throughly plundered of all he had,
+<pb n="5" facs="tcp:123569:3"/> and beſides that he had eighteene children to maintaine, and nothing left to <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> This <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> children, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Another among them would give a <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to teach or tell him a new oath, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> never either heard or <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and well he might have offered to give a greater <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that; <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſuch variety of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ange and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n heard of oathes, and ſuch frequen<g ref="char:EOLhyphen"/>cy of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heard, as <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay when <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſay, nor <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other object to give occaſion for any word or ſpeech, yet oathes <gap reason="illegible" resp="#APEX" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> from their <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thicke as haile fals, that except hell were broken <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe, and the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſent among us, we could not heare, nor ſee more in<g ref="char:EOLhyphen"/>tolerable wickedneſſes; Nay, in their plundering, they had no regard to rich or poore, to Round-heads (as they call them) and thoſe that were of the like diſpoſition as themſelves, for they <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poore men, th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> live on the Almes of the Towne, that beg the very bread they <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and the very Almes houſe they ſearched, and <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d, and the very houſes that were burn<g ref="char:EOLhyphen"/>ing and conſuming by the fire that themſelves had kindled, were not ſpared from robbing them of the very goods they preſerved from the fury of the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ames.</p>
+            <p>Beſides this, the ſpoyle they did among mens goods was as much as their loſſe which they <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> away: as in letting out whole Hogſ-heads of Oyle, and veſſels full of Strong-water, Vinegar, <hi>Aquavitae,</hi> Treackle, and Spice, and Fruite, and all this throwne about the ſhops, ſellers, and houſes: beſides the taking away and burning of Bookes, for they tooke all the grea<g ref="char:EOLhyphen"/>teſt Bookes the Booke-ſellers had in their ſhops, and all the ſmaller Bookes they burnt, (witneſſe <hi>John Hamond</hi> by name) for in one of our Booke-ſellers houſes they maintained a great fire for five houres together, with nothing but Bookes and Papers, inſomuch that they had like to have ſet fire of his houſe with the greatneſſe of the flame, for they burned the mantle of the chim<g ref="char:EOLhyphen"/>ney. And in five or ſixe other places more, adventured the houſes by fire alſo, as the Mayor of the towne his houſe, and in a mans ſhop that ſels Oyle, Pitch, Ro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, Hempe, Flax, and Tarre, and ſuch ready things to take fire, they had kindled a fire, and ſo went forth and left it purpoſe<g ref="char:EOLhyphen"/>ly to burne, but by the care of a neighbour (the man being not at home) prevented, through the will of God. And at a Woollen Drapers ſhop, under his penthouſe making a great fire <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er his ſhop-windowes, and ſome two or three other honeſt mens houſes, which I will not ſtand to relate the manner thereof, and yet none of theſe mens houſes tooke fire.</p>
+            <p>But to relate all their rage and cruelty were almoſt endleſſe, for they brake up the <hi>Towne-houſe,</hi> and there they brake the <hi>Cheſts</hi> and <hi>Coffers,</hi> that the <hi>Records</hi> and <hi>Court-bookes</hi> and <hi>Deeds</hi> and <hi>Leaſes</hi> of the <hi>Townes land</hi> were in, and carried them away; they likewiſe brake off the <hi>Seales,</hi> and <hi>rent</hi> the <hi>writings</hi> in peeces, as alſo they did to other mens writings: And the townes <hi>Grand Charte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> they alſo carried away, beſides <hi>two hundred pounds worth</hi> of <hi>Cheeſe</hi> that was there laid in for the market, which they carried away every peny-worth: So that we had thought that <hi>Jack S<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> and <hi>Wat Tylers</hi> dayes had beene come againe, and their complices had broken in upon us; for they brake up our <hi>Priſons</hi> and ſet <hi>Priſoners</hi> at liberty that were in on Execution, and delive<g ref="char:EOLhyphen"/>red them, beſides the ſpoyling all <hi>bookes</hi> of <hi>Law Records</hi> and <hi>monuments.</hi> And thinking yet they could never doe miſchiefe enough they brake <hi>glaſſe windowes,</hi> cut and ſlaſh mens <hi>Table boards, ſtooles,</hi> and <hi>Chayres</hi> with their ſwords, beſides the frights they put many women and children to, by ſetting the points of their ſwords to their <hi>breſts,</hi> and threatning them to run them through, if they did not give them money, &amp;c. And all the Horſes and Carts, that were in the towne both good and bad they tooke away, many of which were Country mens horſes which had beene ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid here the Saterday before, and on theſe they carryed away our goods; thus that
+<pb n="6" facs="tcp:123569:4"/> very thing which was intended for our good proved to our hurt in the event, and alſo to the Countries loſſe.</p>
+            <p>Thus have I related ſome of their cruelties, though but the leaſt part thereof, now alſo will I ſpeake of their uſage of the poore priſoners they tooke. So ſoone as they tooke any they ſtript him of his cloathes, eſpecially the upper garments, and then they demand their money of them, and ſo ſearch their pockets and take it from them, ſo if they had a good hat on their heads, then one or other of the meaner ſort of them, he would change hats with them, and ſo they have a poore old hat put on their heads: and after they had brought a great many together, they compelled them to goe into the Towne againe, juſt before their Troopes, and ſo put them all together into a Stable amongſt horſes, and tyed their armes with cords one to another, not permitting Wives or Friends to come to them to yeeld them ſupply of money or victuals, but with much difficulty, and in the ſame manner they led them away the next day being Tueſday towards <hi>Oxford,</hi> compelling them to goe all on foote in the dirty waies two by two, as they were bound, becauſe they ſhould goe juſt before the mouth of their Ordnance, not ſuffering them to goe the cleaneſt way.</p>
+            <p>And when they came to <hi>Oxford,</hi> they were put into a Tower of the Caſtle a great height, where they are not allowed any fire or candle, or ſtraw to lye on, but the bare boards and p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ankes of the roome, nor any more allowance then one peny and farthing a day, which is a peny in bread, and a farthing kan of Beere, which is halfe beere halfe water, by which meanes many are very ill and diſeaſed, and ſome have the Bloody-flux; and all that be returned home, they looke very pitifully with ſuffering ſuch hard <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ips, and all men that come away, they make them pay ſome forty, ſome fifty, ſome three or foure or five pound, but at the leaſt one and twenty ſhillings ſix pence as fees, and compell them to take an Oath, the tenour of which we cannot yet learne; But for Maſter <hi>Franklin,</hi> the <hi>Scotch</hi> Commandes, and one Maſter <hi>Browne,</hi> are ſomething better provided for, though not much, we doe feare; for men cannot come to their preſence but with much difficultie, and if any doe, not a word muſt be ſpoken to Maſter <hi>Franklin</hi> out of the Kee<g ref="char:EOLhyphen"/>pers hearing: And this is our priſoners condition at this time.</p>
+            <p>Now for their number, they carryed from <hi>Marleborough</hi> betweene a 100. and 120. but of theſe but forty <hi>Marleborough</hi> men, ſome of which were poore ſilly Prentiſe boyes, ſome others day-labourers and poore ſimple men of very meane condition, who neither ever had or handled Armes in their lives, and one among the reſt that we thinke was ſcarce ever worth five ſhillings, who ſate trembling and quaking for feare, poore man, all the time of the fight: And we verily thinke would be ready to ſinke downe at the very <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight of a drawne ſword; others they tooke away priſoners whoſe houſes and goods were conſumed by fire, and never in Armes neither.</p>
+            <p>The reſt were Country men, and many of them onely men that came to the Market, ſome o<g ref="char:EOLhyphen"/>thers that came along at their heeles, when they had got the Townes, who came purpoſely to pilfer and rifle for goods alſo, ſome of which we know, but for the towne priſoners we can name them, As,</p>
+            <p>Maſter <hi>John Franklin,</hi> Maſter <hi>Robert Browne,</hi> Maſter <hi>Thomas Hunt,</hi> The two <hi>Scotch</hi> Comman<g ref="char:EOLhyphen"/>ders and their two men whoſe names we know not, <hi>John Baylyſon, Robert</hi> and <hi>William Briant:</hi> two Brothers, <hi>William Tarrant, Joſeph Bliſſet, Lewis Crapon,</hi> and juſt 32. more, which we need not name particularly, nor theſe neither.</p>
+            <p>But for the number of houſes burnt, there was 53. dwelling houſes, within which houſes did inhabit juſt 53. ſeverall Families, and the number of perſons in them juſt 105. perſons left harbourleſſe without houſe or goods, beſides ſeven Barnes all full of Corne, except one which had Hay in it, and alſo Stables, Woodpiles, and out-houſes that were not taken notice of, nor caſt in this number.</p>
+            <p>And by this occaſion of burning theſe mens houſes and the neceſſity our other poore were brought unto, the Countrey about us ſending in their benevolence towards the reliefe of the
+<pb n="7" facs="tcp:123569:4"/> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re among us, there was relieved thereby 600. Families, and neare upon 2000. perſons numbe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n theſe Families that had need of reliefe.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he generall loſſe of our Towne amounted to 50000. li. in goods, money, and wares, at the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as it is conceived, not accounting the worth of theſe houſes that they burned: what with <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpoyle they made in mens goods, and in that they carried away, it could riſe to little leſſe <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the aforeſaid ſumme.</p>
+            <p>One thing I have omitted concerning their taking priſoners, that is, that they carried into <hi>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ord</hi> 190. or full 200. priſoners to make their number great as they thought; but as I ſaid be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, they carried ſcarce 120. out of <hi>Marleborough:</hi> and of them not making matter who they <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke: ſo as they paſſe through the Countrey they take up men they cared not whom to make <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his number, and compelled them to goe along with them priſoners, ſome from the plough <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fields, ſome from their doores as they came to looke forth upon them as they paſſed by: <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they pull out of their houſes in the Villages where they dwelt, pretending they were <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>und heads, or that they had borne Armes at <hi>Marleborough,</hi> or elſe done ſomething or other <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which they muſt goe away priſoners. And in all the Villages taking away horſes or goods <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whatſoever liked them, and whereſoever they quartered, not paying one penny for horſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at or mans meat which they ſpent, ſetting their horſes into mens Barnes of Corne, and ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g litter of ſome, and their horſes eating the reſt. So in <hi>Marleborough</hi> they would make <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bles of a Linnendrapers and other Tradeſmens ſhops, or in the Parlours and place of mens <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ellings, fatching away their Ma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Oates and Hay by force, to give their horſe, yea, and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſell too for little or nothing if they found any Cheapmen: ſometimes ſelling that for two <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llings ſixe pence, which is worth twenty ſhillings. As to inſtance in Bibles, they would take <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, either new or old, and ſell them for ſixe pence or twelve pence a peece.</p>
+            <p>And for the number of theſe that came againſt us was about 7000 horſe and foote, all hungry <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ping Theeves: their chiefe Commanders were theſe, <hi>Commiſſary Wilm<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> the Lord <hi>Grandiſon,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord Viſcoun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Crambai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</hi> the Lord <hi>George Digby</hi> (a prime beaſt) the Lord <hi>Wentworth,</hi> Sir <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illiam Peniman,</hi> Sir <hi>James Peniman,</hi> (his brother and Lieutenant Colonell) Colonell <hi>Gray,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olonell <hi>Blake,</hi> Colonell <hi>Waſhington,</hi> Colonell <hi>Vſher,</hi> Captaine <hi>Leg,</hi> and <hi>Oneale, &amp;c.</hi> and ſome <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve out that Count <hi>Mauri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> was there, but we knew not this certainely: <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome other Comman<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs there might be among them who came not to our knowledge.</p>
+            <p>The number of their ſlaine and wounded men they kept from our ſight and knowledge as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch as they could, but they had ſlain as is conceived above 200 men, many they b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ied the next <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y in the Town, and many they buried in ſeverall places in the fields about the Town, many of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich graves we have ſince found and ſeene their dead men in them: ſome they threw into a ve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deepe Well three furlongs from the Town, and many they carried away in Carts, ſome ſay <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ure or five loads, and caſt in a River in their way: but their owne confeſſion in this is the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt teſtimony, for they ſay that 27. Commanders fell, and three Cannoneeres were ſlaine, and a <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eat many men more they loſt: ſo that it is conceived by the moſt, that 200. men at the leaſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere ſlaine, beſides a great many that were wounded; of which wounded men they all or moſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>art died of their wounds, for ſome were left behind in the Towne, and ſome carried 3. 4. or 5. <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iles towards <hi>Oxford,</hi> and there left; whoſe wounds ſeemed to be but light to them that ſaw <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>em, and yet they proved mortall to them all, and thereof ſince they are dead. And yet there <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as neither man, woman or child kild on our ſide in all this fight, onely two Countrey-men <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ere kild very cowardly as they were running forth of the Towne when they made no reſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce: and one of theſe did report at a Gentlemans houſe within two miles of the Towne, that <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was going to <hi>Marleborough</hi> and would receive their pay, but intended not to fight for them.</p>
+            <p>And one remarkeable thing we may not omit, that a certaine Towneſman who was a Servant <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord <hi>Seymer,</hi> who was ſhot in the thigh at their firſt entring into the the Towne, who
+<pb n="8" facs="tcp:123569:5"/> was a friend of theirs, came out of a houſe where the Lady <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> was to deſire quarter for <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but they being in a rage, regarding not his words, cryed out, Shoote him, ſhoot him Rog<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whereupon he clapping the doore together againſt them, they ſhot through the doore and wounded him, who yet lies very ill, not knowing whether he ſhall recover or no.</p>
+            <p>Now this ſame party a little before the firſt comming of the Lord <hi>Digby</hi> againſt the towne, having beene in <hi>Wales</hi> with his Maſter or with the Lord Marqueſſe of <hi>Hartford,</hi> and with the Kings Army alſo, he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tered this ſpeech, that there was a fearefull blacke cloud comming up<g ref="char:EOLhyphen"/>on this towne; and alſo when the towne was almoſt taken, he was heard to ſay, that now the King had begun his harveſt.</p>
+            <p>And of all other men, women or children of the towne not ſo much as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hot.</p>
+            <p>They had ſome ſix or ſeven great Guns, and a great many ſhots with them; for we have found 18. or 20. great Bullets that have beene taken up in the towne in ſeverall places, beſides many that were ſhot over and ſo never found. The weight of theſe Bullets wee have ſeene were ſome 22 pound, ſome 18. pound, ſome 15. pound weight, and ſome we ſaw of 2. pound, ſhot as it ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eme<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from ſome Drake: but of all theſe ſorts we have ſeene and can ſhew them; And for the ſpeciall mercies of God to us in the midſt of ſo great calamities, is not to be forgotten by us: <hi>For of all thoſe houſes or barnes that were burned, not one of the owners that ſtood in this noble cauſe, and of many that did ſhew themſelves actors therein, or ſetters forward thereof, though ſome ventures and attempts w<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> made in their houſes by fire, yet they had their houſes preſerved.</hi>
+            </p>
+            <p>Another is, that a few, even a very handfull of men ſhould with ſuch undaunted courage and reſolution ſtand to defend a towne againſt ſuch a great company, and yet not loſe a man; for all the men that we had that did fight in all this time, were but 140. men at the utmoſt: for one Band of men we had under the command of one Captaine <hi>Digges,</hi> who were in a convenient place both to defend the towne, and to offend the enemy, yet he ſuffered them not to ſhoot one ſhot, but as we have heard, ſent by a ſecret meſſage that he would ſtand Neuter: And many others there were who played the cowards (beſides theſe) when danger appreached: and the re<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our men were ſet to guard at ſuch parts of the Towne where we had no aſſault at all given.</p>
+            <p>Another mercy, that in all theſe great ſhots againſt our houſes, not ten ſhillings in harm<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> done thereby: and many others more we could obſerve: as one in their departure from us, and not Wintering here, as it ſeemes they had intended, if they had not heard of the approach of ſome of the Lord Generals Forces, who were comming for our reliefe, and alſo in regard they had ſo much plundered the Towne, they thought here would not be ſupport for them.</p>
+            <p>Thus we have made a rude but true relation, out of which you may collect what you pleaſe, and omit what you thinke not convenient to be Printed: And ſo we leave you.</p>
+            <closer>
+               <signed>All of them your Friends. T.B. W.B. O.B. J.H.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>Reader, the reaſon why this come no ſooner in Print, was, the firſt Copy was intercepted by the Cavaleeris.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
